@@ -12,3 +12,7 @@ Los postres son el cierre perfecto de cualquier comida, con recetas clásicas de
 - Café expreso.
 - Chocolate caliente.
 - Vino de Oporto.
+
+## Consejos
+- Pesa los ingredientes con báscula, en repostería la precisión es clave.
+- Equilibra los postres más pesados con fruta fresca.
