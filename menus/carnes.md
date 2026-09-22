@@ -12,3 +12,7 @@ Los platos de carne celebran la tradición de la parrilla y el asado, donde la c
 - Vino tinto Malbec.
 - Cerveza negra.
 - Limonada natural.
+
+## Consejos
+- Saca la carne de la nevera 30 minutos antes de cocinarla.
+- Déjala reposar unos minutos después de asarla para que conserve sus jugos.
