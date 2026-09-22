@@ -10,3 +10,7 @@ La cocina india destaca por su riqueza de especias como comino, cúrcuma, cardam
 - Lassi de mango.
 - Chai masala.
 - Cerveza lager fría.
+
+## Consejos
+- Tuesta las especias en ghee o en seco para liberar todo su aroma.
+- Acompaña con pan naan y raita de yogur para suavizar el picante.
