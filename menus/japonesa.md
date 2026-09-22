@@ -5,3 +5,9 @@ La cocina japonesa busca el equilibrio y la estacionalidad, con una presentació
 - **Sushi Variado**: Nigiris y makis de arroz avinagrado con pescado fresco y alga nori.
 - **Ramen Tonkotsu**: Fideos en caldo de hueso de cerdo con chashu, huevo marinado y cebollín.
 - **Tempura de Langostinos y Verduras**: Rebozado ligero y crujiente servido con salsa tentsuyu.
+
+
+## Bebidas Recomendadas
+- Té verde matcha.
+- Sake frío o caliente.
+- Cerveza japonesa ligera.
