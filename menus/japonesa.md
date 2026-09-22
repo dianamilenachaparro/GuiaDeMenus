@@ -11,3 +11,8 @@ La cocina japonesa busca el equilibrio y la estacionalidad, con una presentació
 - Té verde matcha.
 - Sake frío o caliente.
 - Cerveza japonesa ligera.
+
+
+## Consejos
+- Lava bien el arroz de grano corto hasta que el agua salga clara.
+- Sirve jengibre encurtido para limpiar el paladar entre bocados.
