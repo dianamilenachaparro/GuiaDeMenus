@@ -12,3 +12,7 @@ La cocina vegetariana prescinde de la carne y aprovecha al máximo verduras, leg
 - Jugo verde de espinaca, manzana y jengibre.
 - Limonada de hierbabuena.
 - Kombucha.
+
+## Consejos
+- Combina legumbres y cereales para obtener proteínas completas.
+- Añade sabor umami con champiñones, salsa de soya o levadura nutricional.
