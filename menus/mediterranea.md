@@ -7,3 +7,8 @@ La cocina mediterránea reúne tradiciones de Grecia, España, Italia y Medio Or
 - **Ensalada Griega**: Tomate, pepino, cebolla morada, aceitunas negras y queso feta.
 - **Paella de Mariscos**: Arroz con azafrán, camarones, mejillones y calamares.
 - **Hummus con Pan Pita**: Crema de garbanzo con tahini, limón, ajo y aceite de oliva.
+
+## Bebidas Recomendadas
+- Vino blanco seco.
+- Agua con limón y menta.
+- Té de menta.
