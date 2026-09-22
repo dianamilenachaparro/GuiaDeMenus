@@ -10,3 +10,7 @@ La cocina mexicana es reconocida por su color y su intensidad, con el maíz, el 
 - Agua de horchata.
 - Margarita de limón.
 - Cerveza clara con limón.
+
+## Consejos
+- Calienta las tortillas en un comal para que queden suaves y aromáticas.
+- Ajusta el nivel de picante eligiendo bien la variedad de chile.
