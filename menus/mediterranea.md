@@ -12,3 +12,7 @@ La cocina mediterránea reúne tradiciones de Grecia, España, Italia y Medio Or
 - Vino blanco seco.
 - Agua con limón y menta.
 - Té de menta.
+
+## Consejos
+- Usa aceite de oliva extra virgen en crudo para aprovechar su sabor.
+- Aromatiza con hierbas frescas como orégano, romero y perejil.
